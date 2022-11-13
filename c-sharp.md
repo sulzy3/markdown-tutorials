@@ -20,5 +20,31 @@ The art of programing is the knowledge of having a computer do what you want, in
 
 ## high vs low level
 
+## your first line of code
+every programer thinks that he or she is god hence let's print a world.
+```
+using System;
 
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+```
 
+## understanding variables
+you know too distinguish between a number and a word, but a computer needs to be told exactly what everything is.
+
+## booleans and ifs
+
+## loops
+
+## conventions 
+
+## places to further your research
+- [w3 school](https://www.w3schools.com/cs/index.php)
